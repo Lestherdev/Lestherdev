@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, i'm Jordi Lesther</h1>
+<h2 align="center">Frontend Developer 🖥️ - Cyersecurity Student 👨🏻‍💻</h2>
+
+<div align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/iqDkGMlfepYMquQyo6/giphy.gif?cid=790b76117cwmslp14hdezxqqvnmgzmqwspufllkl6hxqke6s&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
 
 <!--
 **Lestherdev/Lestherdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
