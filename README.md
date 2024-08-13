@@ -9,6 +9,14 @@
 
 I'm currently studying Cibersecurity Engineering, I'm a frontend developer specializing in ecommerce primarily in VTEX IO
 
+<details>
+  <summary><h4> See more about me ... </h4></summary>
+
+   <a href="https://www.linkedin.com/in/jordilesther">
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="70"/>
+  </a>
+</details>
+
 <!--
 **Lestherdev/Lestherdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
