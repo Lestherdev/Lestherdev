@@ -2,7 +2,7 @@
 <h2 align="center">Frontend Developer 🖥️ - Cyersecurity Student 👨🏻‍💻</h2>
 
 <div align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/iqDkGMlfepYMquQyo6/giphy.gif?cid=790b76117cwmslp14hdezxqqvnmgzmqwspufllkl6hxqke6s&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img alt="GIF" src="https://media.giphy.com/media/DaoxQrXilkTGL0BAJP/giphy.gif?cid=ecf05e47amll7hm4xnx2pofcyeibjg9qbtdotp55r3dhjt65&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
 ## About me
@@ -10,11 +10,19 @@
 I'm currently studying Cibersecurity Engineering, I'm a frontend developer specializing in ecommerce primarily in VTEX IO
 
 <details>
+  <summary><h4>Skills</h4></summary>
+
+  My skills
+</details>
+
+<details>
   <summary><h4> See more about me ... </h4></summary>
 
+  <div align="center">
    <a href="https://www.linkedin.com/in/jordilesther">
     <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="70"/>
   </a>
+    </div>
 </details>
 
 <!--
